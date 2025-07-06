@@ -29,4 +29,6 @@ javac -source 1.5 -target 1.5 -bootclasspath <path/to/rt> srt/Main.java
 You can also try installing the JDK/JRE for Java 5, but I would not recommend it. Java 5 is already long dead and in the grave,
 and installing it on your system may pose a security risk; I found the tools in the JDK/JRE 5 to be kinda buggy and slow, and `jar` didn't work properly.
 
+I'll probably replace this readme with less critical language once the library is actually decent
+
 Also don't mind the jockey :)
